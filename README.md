@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 
 ***
 ### 📘 Asignaturas 
-- Programación
+- Desarrollo web en entorno cliente
+- Desarrollo web en entorno servidor
+- Despliegue de aplicaciones web
+- Digitalización aplicada al sistema productivo
+- Diseño de interficies
+- Módulo optativo
 - Proyecto Intermodular
-- Inglés Profesional
-- Base de datos
-- Entornos de desarrollo
-- Lenguaje de marcas
-- Sistemas Informáticos
+- Sostenibilidad aplicada al sistema productivo
 
 ***
 ### 📋 Perfil
