@@ -1,49 +1,57 @@
-## Hola! Mi nombre es Andrea 😃👋
+# ¡Hola! Soy Andrea 😃👋
 
-Estudiante del módulo superior de Desarrollo de Aplicaciones Web (DAW).
+🎓 Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**.
 
-<!--
-**AndreaTormo/AndreaTormo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me apasiona el desarrollo web y disfruto creando aplicaciones tanto en frontend como en backend. Actualmente estoy ampliando mis conocimientos en tecnologías modernas y construyendo proyectos para seguir creciendo como desarrolladora Full Stack.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
 
-***
-### 📘 Asignaturas 
-- Desarrollo web en entorno cliente
-- Desarrollo web en entorno servidor
-- Despliegue de aplicaciones web
-- Digitalización aplicada al sistema productivo
-- Diseño de interficies
-- Módulo optativo
+- 🌱 Aprendiendo y desarrollando proyectos con **Angular**, **Node.js** y **Express**
+- 🗄️ Trabajando con bases de datos **MongoDB** y **PostgreSQL**
+- 🐳 Utilizando **Docker** para el despliegue y la gestión de entornos
+- 💻 Interesada en el desarrollo Full Stack y las buenas prácticas de programación
+- 📚 Siempre aprendiendo nuevas tecnologías y herramientas
+
+---
+
+## 📘 Asignaturas de 2º DAW
+
+- Desarrollo Web en Entorno Cliente
+- Desarrollo Web en Entorno Servidor
+- Despliegue de Aplicaciones Web
+- Diseño de Interfaces Web
+- Digitalización Aplicada al Sistema Productivo
+- Sostenibilidad Aplicada al Sistema Productivo
+- Módulo Optativo
 - Proyecto Intermodular
-- Sostenibilidad aplicada al sistema productivo
 
-***
-### 📋 Perfil
-**AndreaTormo/AndreaTormo** es mi perfil en GitHub.
+---
 
-***
-### 🚀 Lenguajes
+## 🛠️ Tecnologías y Herramientas
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Lenguajes
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdkor=white
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoPython](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+d
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-***
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### 📧 Contacto
-[![Email](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igijoninf@gmail.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCDC8YnQsB0eRoM-u_qq200w)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/InmaculadaGijn1)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://igijon.github.io/)
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoe
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white de datos
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the=mongodb&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQLfor-the-badge&logo=postgresql&logoColor=white
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-Ftyle=for-the-badge&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoe
+![Docker
