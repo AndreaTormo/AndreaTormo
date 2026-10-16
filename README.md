@@ -1,4 +1,4 @@
-# ¡Hola! Soy Andrea 😃👋
+<img width="2735" height="2268" alt="image" src="https://github.com/user-attachments/assets/2cfa1109-7b80-4d04-a0df-3739dd8c2694" /># ¡Hola! Soy Andrea 😃👋
 
 🎓 Estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**.
 
@@ -33,26 +33,27 @@ Me apasiona el desarrollo web y disfruto creando aplicaciones tanto en frontend 
 
 ### Lenguajes
 
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-escript&logoColor=white
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoe
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python=white
 
 ### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angularwhite
+![Angular](https://img.shields.io/badge/Angular-DD0031the-badge&logo=angular&logoColor=white
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjswhite
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white de datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColorpress](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the=mongodb&logoColor=white
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=foro=postgresql&logoColor=white
+### Bases de datos
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&b&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=logo=postgresql&logoColor=white
 
 ### Herramientas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=[GitHub](https://img.shields.io/badge/GitHub-le=for-the-badge&logo=github&logoColor=white
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColorS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?or-the-badge&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColorocker](https://img.shields.io/badge/Docker-2496ED?style=dge&logo=docker&logoColor=white
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
